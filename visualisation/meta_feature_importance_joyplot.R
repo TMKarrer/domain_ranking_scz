@@ -1,6 +1,4 @@
-'''
-Visualization of the average feature importance of the meta-priors.
-'''
+# Visualization of the average feature importance of the meta-priors.
 
 # libraries
 library(ggplot2)
