@@ -1,6 +1,4 @@
-'''
-Visualization of the permutation test.
-'''
+# Visualization of the permutation test.
 
 # libraries
 library(ggplot2)
